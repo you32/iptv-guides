@@ -7,4 +7,4 @@ description: Practical IPTV tutorials for Firestick, VLC, Android TV, and Smart 
 
 Welcome to our IPTV tutorial hub. Start here:
 
-- [How to Load an M3U IPTV Playlist on VLC (Windows & Android) — 2025](./m3u-on-vlc-2025)
+- [How to Load an M3U IPTV Playlist on VLC (Windows & Android) — 2025](./m3u-on-vlc-2025.md)
